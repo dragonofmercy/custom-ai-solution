@@ -27,9 +27,9 @@ Just add `\Dragon\CustomAi\CustomAiSolutionProvider::class` in the `solution_pro
 Just update your `.env`
 
 ```dotenv
-ES_CUSTOMAI_ENDPOINT=https://api.openai.com/v1
+ES_CUSTOMAI_ENDPOINT=https://api.groq.com/openai/v1
 ES_CUSTOMAI_API_KEY={your-api-key}
-ES_CUSTOMAI_MODEL=gpt-3.5-turbo
+ES_CUSTOMAI_MODEL=deepseek-r1-distill-qwen-32b
 ```
 
 ---
