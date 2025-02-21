@@ -34,6 +34,11 @@ ES_CUSTOMAI_MODEL=deepseek-r1-distill-qwen-32b
 
 ---
 
+My personal recommandation:  
+Use https://groq.com/ service, you will have a lot of free tokens by daily and a lot of available models.
+
+---
+
 If this project help to increase your productivity, you can give me a cup of coffee :)
 
 <a href="https://ko-fi.com/dragonofmercy" target="_blank"><img src="https://cdn.ko-fi.com/cdn/kofi2.png?v=3" alt="Donate" width="160px" /></a>
