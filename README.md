@@ -2,22 +2,10 @@
 
 With this package you can use your custom AI service for Spatie Ignition Error Solution
 
-<div align="center">
-  <p align="center">
-    <a href="https://packagist.org/packages/dragonofmercy/custom-ai-solution">
-      <img alt="Latest Version" src="https://img.shields.io/static/v1?label=laravel&message=%E2%89%A510.0&color=0078BE&logo=laravel&style=flat">
-    </a>
-    <a href="https://packagist.org/packages/dragonofmercy/custom-ai-solution">
-      <img alt="Total Downloads" src="https://img.shields.io/packagist/dt/dragonofmercy/custom-ai-solution">
-    </a>
-    <a href="https://packagist.org/packages/dragonofmercy/custom-ai-solution">
-      <img alt="Latest Version" src="https://img.shields.io/packagist/v/dragonofmercy/custom-ai-solution">
-    </a>
-    <a href="https://packagist.org/packages/dragonofmercy/custom-ai-solution">
-      <img alt="License" src="https://img.shields.io/github/license/dragonofmercy/custom-ai-solution">
-    </a>
-  </p>
-</div>
+![Latest Version](https://img.shields.io/static/v1?label=laravel&message=%E2%89%A510.0&color=0078BE&logo=laravel&style=flat)
+![Latest Version](https://img.shields.io/packagist/dt/dragonofmercy/custom-ai-solution)
+![Latest Version](https://img.shields.io/packagist/v/dragonofmercy/custom-ai-solution)
+![Latest Version](https://img.shields.io/github/license/dragonofmercy/custom-ai-solution)
 
 ### Installation
 
