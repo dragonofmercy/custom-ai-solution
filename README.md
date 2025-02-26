@@ -2,10 +2,10 @@
 
 With this package you can use your custom AI service for Spatie Ignition Error Solution
 
-![Latest Version](https://img.shields.io/static/v1?label=laravel&message=%E2%89%A510.0&color=0078BE&logo=laravel&style=flat)
-![Latest Version](https://img.shields.io/packagist/dt/dragonofmercy/custom-ai-solution)
-![Latest Version](https://img.shields.io/packagist/v/dragonofmercy/custom-ai-solution)
-![Latest Version](https://img.shields.io/github/license/dragonofmercy/custom-ai-solution)
+[![](https://img.shields.io/static/v1?label=laravel&message=%E2%89%A510.0&color=0078BE&logo=laravel&style=flat)](https://packagist.org/packages/dragonofmercy/custom-ai-solution)
+[![](https://img.shields.io/packagist/dt/dragonofmercy/custom-ai-solution)](https://packagist.org/packages/dragonofmercy/custom-ai-solution)
+[![](https://img.shields.io/packagist/v/dragonofmercy/custom-ai-solution)](https://packagist.org/packages/dragonofmercy/custom-ai-solution)
+[![](https://img.shields.io/github/license/dragonofmercy/custom-ai-solution)](https://github.com/dragonofmercy/custom-ai-solution/blob/main/LICENSE)
 
 ### Installation
 
